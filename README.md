@@ -46,13 +46,13 @@ class AI_Researcher:
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Carnegie_Mellon_University_seal.svg" width="80px" alt="CMU"/><br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRBx52egOpZPlpjNkoXs7SkrdYJLeoiUWY7A&s" width="100px" alt="CMU"/><br>
 <b>Carnegie Mellon University</b><br>
 <sub>Xu Lab</sub><br>
 <small>Uncertainty-Guided Active Learning<br>for Retinal Segmentation</small>
 </td>
 <td align="center" width="25%">
-<img src="https://upload.wikimedia.org/wikipedia/en/f/f1/Nanyang_Technological_University.svg" width="80px" alt="NTU"/><br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDX9GJJPXfjd7un5dc6OVGvsnVA6abDUL9ig&s" width="100px" alt="NTU"/><br>
 <b>NTU Singapore</b><br>
 <sub>LKC School of Medicine</sub><br>
 <small>False Colour Image Generation<br>from FUNDUS Datasets</small>
@@ -66,8 +66,8 @@ class AI_Researcher:
 <td align="center" width="25%">
 <img src="https://ais.iitp.ac.in/storage/assets/icon/sMcErK5nymyTQDPb6OemBAHje1Xtv8edlwj6pga0.png" width="80px" alt="IIT Patna"/><br>
 <b>IIT Patna</b><br>
-<sub>AI-NLP-ML Lab</sub><br>
-<small>Adverse Drug Event Summarization<br>using LLMs & RL</small>
+<sub>AI-NLP-ML Lab | Robotics & Automation Lab</sub><br>
+<small>• Adverse Drug Event Summarization (LLMs & RL)<br>• Toolpath Generation for CNC Texturing</small>
 </td>
 </tr>
 </table>
