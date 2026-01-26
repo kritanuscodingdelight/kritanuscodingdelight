@@ -46,25 +46,25 @@ class AI_Researcher:
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRBx52egOpZPlpjNkoXs7SkrdYJLeoiUWY7A&s" width="100px" alt="CMU"/><br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRBx52egOpZPlpjNkoXs7SkrdYJLeoiUWY7A&s" width="90px" height="90px" alt="CMU"/><br>
 <b>Carnegie Mellon University</b><br>
 <sub>Xu Lab</sub><br>
 <small>Uncertainty-Guided Active Learning<br>for Retinal Segmentation</small>
 </td>
 <td align="center" width="25%">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDX9GJJPXfjd7un5dc6OVGvsnVA6abDUL9ig&s" width="100px" alt="NTU"/><br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDX9GJJPXfjd7un5dc6OVGvsnVA6abDUL9ig&s" width="90px" height="90px" alt="NTU"/><br>
 <b>NTU Singapore</b><br>
 <sub>LKC School of Medicine</sub><br>
 <small>False Colour Image Generation<br>from FUNDUS Datasets</small>
 </td>
 <td align="center" width="25%">
-<img src="https://th.bing.com/th/id/OIP.N9P-ySdybjH0_EOOYqwjoAAAAA?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="80px" alt="IIT Bombay"/><br>
+<img src="https://th.bing.com/th/id/OIP.N9P-ySdybjH0_EOOYqwjoAAAAA?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="90px" height="90px" alt="IIT Bombay"/><br>
 <b>IIT Bombay</b><br>
 <sub>MInDS Lab</sub><br>
 <small>Multimodal Remote Sensing<br>using AI</small>
 </td>
 <td align="center" width="25%">
-<img src="https://ais.iitp.ac.in/storage/assets/icon/sMcErK5nymyTQDPb6OemBAHje1Xtv8edlwj6pga0.png" width="80px" alt="IIT Patna"/><br>
+<img src="https://upload.wikimedia.org/wikipedia/en/1/1c/IIT_Patna_Logo.svg" width="90px" height="90px" alt="IIT Patna"/><br>
 <b>IIT Patna</b><br>
 <sub>AI-NLP-ML Lab | Robotics & Automation Lab</sub><br>
 <small>• Adverse Drug Event Summarization (LLMs & RL)<br>• Toolpath Generation for CNC Texturing</small>
@@ -75,19 +75,19 @@ class AI_Researcher:
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://tse3.mm.bing.net/th/id/OIP.q4UhhlBWTRvC7Hs7gc6HowHaFj?rs=1&pid=ImgDetMain&o=7&rm=3" width="80px" alt="IIT Delhi"/><br>
+<img src="https://tse3.mm.bing.net/th/id/OIP.q4UhhlBWTRvC7Hs7gc6HowHaFj?rs=1&pid=ImgDetMain&o=7&rm=3" width="90px" height="90px" alt="IIT Delhi"/><br>
 <b>IIT Delhi</b><br>
 <sub>Mechatronics Lab</sub><br>
 <small>RoboAnalyzer Backend<br>Development</small>
 </td>
 <td align="center" width="33%">
-<img src="https://tse1.mm.bing.net/th/id/OIP.RaNgHlXaO36vbZx2V77-UQAAAA?w=300&h=300&rs=1&pid=ImgDetMain&o=7&rm=3" width="80px" alt="Jadavpur University"/><br>
+<img src="https://tse1.mm.bing.net/th/id/OIP.RaNgHlXaO36vbZx2V77-UQAAAA?w=300&h=300&rs=1&pid=ImgDetMain&o=7&rm=3" width="90px" height="90px" alt="Jadavpur University"/><br>
 <b>Jadavpur University</b><br>
 <sub>CMATER Lab</sub><br>
 <small>Agricultural AI & Plant<br>Disease Classification</small>
 </td>
 <td align="center" width="33%">
-<img src="https://th.bing.com/th/id/OIP.FIv67kv5Z0WHqoMhx3ppXwHaFj?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="80px" alt="IIT Madras"/><br>
+<img src="https://th.bing.com/th/id/OIP.FIv67kv5Z0WHqoMhx3ppXwHaFj?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="90px" height="90px" alt="IIT Madras"/><br>
 <b>IIT Madras</b><br>
 <sub>Autonomous Systems Lab</sub><br>
 <small>Dynamic Stability Analysis<br>of Autonomous Vehicles</small>
