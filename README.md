@@ -74,27 +74,38 @@ class AI_Researcher:
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="20%">
 <img src="https://tse3.mm.bing.net/th/id/OIP.q4UhhlBWTRvC7Hs7gc6HowHaFj?rs=1&pid=ImgDetMain&o=7&rm=3" width="100px" height="100px" style="object-fit: contain;" alt="IIT Delhi"/><br>
 <b>IIT Delhi</b><br>
-<sub>Mechatronics Lab</sub><br>
-<small>RoboAnalyzer Backend<br>Development</small>
+<sub>Neurocomputing Lab</sub><br>
+<small>Early Myopia Prediction<br>using GNNs</small>
 </td>
-<td align="center" width="33%">
+<td align="center" width="20%">
 <img src="https://tse1.mm.bing.net/th/id/OIP.RaNgHlXaO36vbZx2V77-UQAAAA?w=300&h=300&rs=1&pid=ImgDetMain&o=7&rm=3" width="100px" height="100px" style="object-fit: contain;" alt="Jadavpur University"/><br>
 <b>Jadavpur University</b><br>
 <sub>CMATER Lab</sub><br>
 <small>Agricultural AI & Plant<br>Disease Classification</small>
 </td>
-<td align="center" width="33%">
+<td align="center" width="20%">
 <img src="https://th.bing.com/th/id/OIP.FIv67kv5Z0WHqoMhx3ppXwHaFj?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="100px" height="100px" style="object-fit: contain;" alt="IIT Madras"/><br>
 <b>IIT Madras</b><br>
 <sub>Autonomous Systems Lab</sub><br>
 <small>Dynamic Stability Analysis<br>of Autonomous Vehicles</small>
 </td>
+<td align="center" width="20%">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ_KnEGjrpNAGMq6v2Z1lECxNkOuTQzDkLog&s" width="100px" height="100px" style="object-fit: contain;" alt="IIT Hyderabad"/><br>
+<b>IIT Hyderabad</b><br>
+<sub>VIGIL Lab</sub><br>
+<small>Medical Image Analysis<br>with Federated Learning & ViT</small>
+</td>
+<td align="center" width="20%">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqJBnTm6WFqmSIBVoSGZqY3YQW4rFkXvNuYA&s" width="100px" height="100px" style="object-fit: contain;" alt="IIT Guwahati"/><br>
+<b>IIT Guwahati</b><br>
+<sub>Kar Research Group</sub><br>
+<small>HPV-16 E6 Inhibitor<br>Drug Discovery using ML</small>
+</td>
 </tr>
 </table>
-
 </div>
 
 ---
